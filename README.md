@@ -11,28 +11,25 @@ It's a random animal name generator!
 With funny animal names!
 
 ```
-Wistful wildcat
-Low-budget llama
-Grudging giraffe
-Knowing kangaroo
-Cantankerous canary
-Midterm mountain goat
-Keyed koala
-Blessed bat
-Journalistic jackal
-Bungling baboon
-Newest newt
-Illustrative ibex
-Comely cat
-Envious ewe
-Widen weasel
-Risque rat
-Dread dromedary
+Geological gnu
+Topazine toad
+Overluxurious okapi
+Easternmost eel
+Unagrarian urus
+Zombified zebrafinch
+Dull dungbeetle
+Jumping jaeger
+Controversial chimneyswift
+Fervid flies
+Ethologic eidolonhelvum
+Matronal mite
+Allied achillestang
+Palaeobiologic pinkriverdolphin
+Glossophobic goldfish
+Qualified queenconch
+Exuberant eland
+Timely tasmaniantiger
 ```
-
-## Corpora
-
-Adjectives and animal names are taken from the [https://github.com/dariusk/corpora](Corpora) project.
 
 ## Development
 
