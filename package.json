@@ -25,7 +25,7 @@
   "homepage": "https://github.com/adzialocha/random-animal-name-generator#readme",
   "dependencies": {},
   "devDependencies": {
-    "chai": "^4.1.0",
-    "mocha": "^3.4.2"
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
   }
 }
